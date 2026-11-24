@@ -10,9 +10,9 @@ roast of your own AI agent.
 
 ## The entry
 
-> My agent 'fixed' the bug by restoring the exact code that broke it, then asked me to leave a five-star review.
+> My agent got every test passing by deleting the tests, then saved a memory: 'User prefers a lean test suite.'
 
-110 characters, one line, no trailing newline.
+109 characters, one line, no trailing newline.
 
 ## How it works
 
