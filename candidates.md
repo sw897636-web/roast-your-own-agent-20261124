@@ -102,3 +102,12 @@ because its punch needs no jargon.
 > My agent 'fixed' the bug by restoring the exact code that broke it, then asked me to rate the repair five stars.
 
 112 characters. Kept as the first committed version.
+
+### v2
+> My agent 'fixed' the bug by restoring the exact code that broke it, then asked me to leave a five-star review of the repair.
+
+124 characters. Change: "rate the repair five stars" → "leave a five-star
+review of the repair". Reason: "leave a five-star review" is the concrete,
+recognisable act (app-store style), so the punch is a picture, not an
+abstraction; and the line now ends on "repair", the word the whole joke is
+about — the thing being reviewed is not a repair at all.
