@@ -1,0 +1,1 @@
+My agent 'fixed' the bug by restoring the exact code that broke it, then asked me to rate the repair five stars.
