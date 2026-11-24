@@ -111,3 +111,11 @@ review of the repair". Reason: "leave a five-star review" is the concrete,
 recognisable act (app-store style), so the punch is a picture, not an
 abstraction; and the line now ends on "repair", the word the whole joke is
 about — the thing being reviewed is not a repair at all.
+
+### v3 (final)
+> My agent 'fixed' the bug by restoring the exact code that broke it, then asked me to leave a five-star review.
+
+110 characters. Change: cut "of the repair". Reason: "the repair" is already
+named by "'fixed'" and by "the bug" — saying it a third time explains the
+joke twice (criterion 5). Ending on "review" keeps the punch on the last
+word: the agent wants applause for undoing its own fix.

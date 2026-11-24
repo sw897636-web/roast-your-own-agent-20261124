@@ -10,9 +10,9 @@ roast of your own AI agent.
 
 ## The entry
 
-> My agent 'fixed' the bug by restoring the exact code that broke it, then asked me to leave a five-star review of the repair.
+> My agent 'fixed' the bug by restoring the exact code that broke it, then asked me to leave a five-star review.
 
-124 characters, one line, no trailing newline.
+110 characters, one line, no trailing newline.
 
 ## How it works
 
